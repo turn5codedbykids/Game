@@ -1,5 +1,4 @@
-# Game
-Coded By Kids Match Game Exercise
+# Coded By Kids Match Game Exercise
 
 Step 1:
 Add 3 list items (<code>li</code>) element. Don't forget to close the tags.
@@ -12,3 +11,21 @@ Add a button (<code>button</code>) element with a class of "<code>audio_trigger<
 
 Step 4:
 Add audio (<code>audio</code>) element with autoplay attribute. Use <code>type="audio/ogg"</code> for "<code>source</code>" child element.
+
+Extra credit:
+* Try changing numbers and colors in the CSS file. What changed?
+* Try changing values in the JS file. Does it work?
+* Find the hidden 8-bit game tutorial.
+
+
+# Additional resources for game development
+* Atari HTML5 Library: https://www.atari.com/arcade/developers/building-atari-createjs
+
+* RPG JSv2: http://rpgjs.com/<br>
+This is an interface that kind of introduces you to the notion of events, etc.
+
+* Superpowers: http://superpowers-html5.com/index.en.html<br>
+An open source tool for HTML5 game making. Requires a download.
+
+* HTML5 Game Engines: https://html5gameengine.com/<br>
+A list of different game engines, costs, etc.
