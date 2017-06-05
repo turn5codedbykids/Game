@@ -2,7 +2,7 @@
 Coded By Kids Match Game Exercise
 
 Step 1:
-Add 3 list items <code><li></code> element. Don't forget to close the tags.
+Add 3 list items <code>li</code> element. Don't forget to close the tags.
 
 Step 2:
 Add an image <code><img></code> element to each list item, use <code>src="./images/blank.png"</code>.
