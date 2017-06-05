@@ -11,4 +11,4 @@ Step 3:
 Add a button (<code>button</code>) element with a class of "<code>audio_trigger</code>" and text "<code>Play</code>".
 
 Step 4:
-Add audio (<code>audio</code> element with autoplay attribute. Use <code>type="audio/ogg"</code> for "<code>source</code>" child element.
+Add audio (<code>audio</code>) element with autoplay attribute. Use <code>type="audio/ogg"</code> for "<code>source</code>" child element.
