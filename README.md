@@ -17,6 +17,14 @@ Extra credit:
 * Try changing values in the JS file. Does it work?
 * Find the hidden 8-bit game tutorial.
 
+# Contact
+Email: turn5codedbykids@gmail.com
+
+# Additional resources for HTML5 &amp; frontend web development
+* HTML5 Rocks: https://www.html5rocks.com
+* Mozilla Developers Network: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+* Code Academy: https://www.codecademy.com
+* How To Code: http://howtocodeinhtml.com/
 
 # Additional resources for game development
 * Atari HTML5 Library: https://www.atari.com/arcade/developers/building-atari-createjs
